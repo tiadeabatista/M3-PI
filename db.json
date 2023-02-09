@@ -1,0 +1,26 @@
+{
+    "Lojas":[
+        {"id": 1, "nomeLoja": "Drogasil", "abragencia": "Multinacional"},
+        {"id": 2, "nomeLoja": "Raia", "abragencia": "Nacional"},
+        {"id": 3, "nomeLoja": "Panvel", "abragencia": "Estadual"},
+        {"id": 4, "nomeLoja": "Drogaria SP", "abragencia": "Inter-Estadual"}
+    ],
+    
+    "Medicamentos":
+    [
+        {"id": 1, "nomeCormecial": "Novalgina", "substancia": "Dipirona", "Tipo": "Referencia"}, 
+        {"id": 2, "nomeCormecial": "Rivotril", "substancia": "Clonazepam", "Tipo": "Referencia"},
+        {"id": 3, "nomeCormecial": "Diazepam", "substancia": "Diazepam", "Tipo": "Generico"}, 
+        {"id": 4, "nomeCormecial": "Dramin", "substancia": "Dimenidrinato", "Tipo": "Referencia"}
+    
+    ],
+    
+    "Precos":
+    [
+        {"id": 1, "cupom":"med10", "descontoLab": "Viva Saude"}, 
+        {"id": 2, "cupom":"vale20", "descontoLab": "Vive rMais"}, 
+        {"id": 3, "cupom":"Desc40", "descontoLab": "Saude Sempe"}, 
+        {"id": 4, "cupom":"Mais20", "descontoLab": "Buona Vitta"}
+    ]
+    
+    }
