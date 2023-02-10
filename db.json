@@ -1,5 +1,5 @@
 {
-  "Lojas": [
+  "lojas": [
     {
       "id": 1,
       "nomeLoja": "Drogasil",
@@ -23,33 +23,33 @@
    
   ],
 
-  "Medicamentos": [
+  "medicamentos": [
     {
       "id": 1,
       "nomeCormecial": "Novalgina",
       "substancia": "Dipirona",
-      "Tipo": "Referencia"
+      "tipo": "Referencia"
     },
     {
       "id": 2,
       "nomeCormecial": "Rivotril",
       "substancia": "Clonazepam",
-      "Tipo": "Referencia"
+      "tipo": "Referencia"
     },
     {
       "id": 3,
       "nomeCormecial": "Diazepam",
       "substancia": "Diazepam",
-      "Tipo": "Generico"
+      "tipo": "Generico"
     },
     {
       "id": 4,
       "nomeCormecial": "Dramin",
       "substancia": "Dimenidrinato",
-      "Tipo": "Referencia"
+      "tipo": "Referencia"
     }
   ],
-  "Precos": [
+  "precos": [
     {
       "id": 1,
       "cupom": "med10",
