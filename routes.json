@@ -1,0 +1,20 @@
+{
+    "/lojas/list": "/lojas/",
+    "/lojas/create": "/lojas/",
+    "/lojas/update/:id": "/lojas/:id",
+    "/lojas/delete/:id": "/lojas/:id",  
+
+
+
+    "/medicamentos/list": "/medicamentos/",
+    "/medicamentos/create": "/medicamentos/",
+    "/medicamentos/update/:id": "/medicamentos/:id",
+    "/medicamentos/delete/:id": "/medicamentos/:id", 
+
+
+
+    "/precos/list": "/precos/",
+    "/precos/create": "/precos/",
+    "/precos/update/:id": "/precos/:id",
+    "/precos/delete/:id": "/precos/:id"
+}
