@@ -14,8 +14,8 @@
 #
 > Objetivo do projeto
 
-Densenvolver um servidor de teste bancos de dados, este servidor foi criado usando a biblioteca Json-server juntamente com o node.js.<br>
-Como requisito o projeto deveria conter duas ou mais rotas, cada rota contendo pelo menos três dados, rotas nas quais o usuário pode realizar o CRUD (CREATE, READ, UPDATE, DELETE), por meio do, POST(criar um novo elemento na rota), GET(ver um elemento da rotação), PUT(atualizar um elemento da rotação), DELETE(excluir um elemento da rotação
+Densenvolver um servidor de teste banco de dados, este servidor foi criado usando a biblioteca json-server juntamente com o node.js.<br>
+Como requisito o projeto deveria conter duas ou mais rotas, cada rota contendo pelo menos três dados, rotas nas quais o usuário pode realizar o CRUD (CREATE, READ, UPDATE, DELETE), por meio do, POST(criar um novo dado na rota), GET(ver um elemento da rotação), PUT(atualizar um dado da rota), DELETE(excluir um dado da rota)
 <br>Como o tema escolhido foi farmácia as rotas do arquivo são: lojas, medicamentos e preços.
 
 # 
@@ -29,7 +29,7 @@ Como requisito o projeto deveria conter duas ou mais rotas, cada rota contendo p
 ```  
 <br>
 
-> Depois de feito o clone do repositório instale o json-server atrvés do comando:
+> Depois de feito o clone do repositório instale o json-server no vscode atrvés do comando:
 
 npm i json-server
 
@@ -49,7 +49,7 @@ npx json-server --watch db.json
   Home
   http://localhost:3000
 ```
-Três URL(s) uma para cada rota e uma URL global (home). Para abrir no navegador basta segurar a tecla ctrl e clicar no link ou copiá-lo e colar na barra de endereços do navegador.
+Três URL(s) uma para cada rota e uma URL global (home). Para abrir no navegador basta segurar a tecla CTRL e clicar em um link desejado ou copiá-lo e colar na barra de endereços do navegador.
 
 #
 > CRUD - (CREATE, READ, UPDATE, DELETE) <br><br>
@@ -60,7 +60,8 @@ PUT: Utilizado para alterar um recurso<br>
 DELETE: Utilizado para deletar um recurso
 
 
-<br>Para fazer as requisições dos métodos HTTP, pode ser ultilizado algumas ferramentas como o Insomnia; 
+<br>Para fazer as requisições dos métodos HTTP, pode ser ultilizado algumas ferramentas como o Insomnia, link para baixá-lo; 
+
 ````bash
  https://insomnia.rest/
  ````
