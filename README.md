@@ -1,27 +1,24 @@
 # Estão Servidos?
 
-> -Projeto Individual módulo 3 - Resilia Educação
-<br>-Tema escolhido - Farmácia 
+# Projeto Individual módulo 3 - Resilia Educação
+# <br>Tema escolhido - Farmácia 
 
-#
-> Tecnologias utilizadas
+# Tecnologias utilizadas
 
 > ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 > <img src="https://cdn-icons-png.flaticon.com/128/2581/2581878.png" width="90" height="90"/>
 
-#
-> Objetivo do projeto
+# <br> Objetivo do projeto
 
 Densenvolver um servidor de teste banco de dados, este servidor foi criado usando a biblioteca json-server juntamente com o node.js.<br>
 Como requisito o projeto deveria conter duas ou mais rotas, cada rota contendo pelo menos três dados, rotas nas quais o usuário pode realizar o CRUD (CREATE, READ, UPDATE, DELETE), por meio do, POST(criar um novo dado na rota), GET(ver um elemento da rotação), PUT(atualizar um dado da rota), DELETE(excluir um dado da rota)
 <br>Como o tema escolhido foi farmácia as rotas do arquivo são: lojas, medicamentos e preços.
 
-# 
-> Passo a Passo de como rodar o projeto:
+# <br>Passo a Passo de como rodar o projeto:
 
-<br>Faça um clone local em sua maquina:
+<br>Faça um clone local do meu repositório em sua maquina:
 <br>
 
 ```bash
@@ -49,7 +46,7 @@ npx json-server --watch db.json
   Home
   http://localhost:3000
 ```
-Três URL(s) uma para cada rota e uma URL global (home). Para abrir no navegador basta segurar a tecla CTRL e clicar em um link desejado ou copiá-lo e colar na barra de endereços do navegador.
+Três URL(s) uma para cada rota e uma URL global (home). Para abrir no navegador basta segurar a tecla CTRL e clicar em um dos links desejado ou copiá-lo e colar na barra de endereços do navegador.
 
 #
 > CRUD - (CREATE, READ, UPDATE, DELETE) <br><br>
@@ -81,6 +78,13 @@ DELETE: Utilizado para deletar um recurso
 <br>Método DELETE - Permite apagar determinado dado dentro da rota desejada, basta inserir ao final da URL o id do dado que desejar deletar.
 
 ![Getting Started](./assets/img/metodoDelete.png)
+
+#
+> Contato
+
+<br>
+
+<a href="https://www.linkedin.com/in/tiago-batista-441aa0105/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
 
 
