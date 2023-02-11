@@ -1,5 +1,5 @@
 {
-    "/lojas/list": "/lojas/",
+    "/lojas/list": "/lojas/",  
     "/lojas/create": "/lojas/",
     "/lojas/update/:id": "/lojas/:id",
     "/lojas/delete/:id": "/lojas/:id",  
