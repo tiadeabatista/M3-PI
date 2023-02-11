@@ -3,26 +3,30 @@
     {
       "id": 1,
       "nomeLoja": "Drogasil",
-      "abragencia": "Multinacional"
+      "abragencia": "Multinacional",
+      "slogan": "Sempre ao seu lado"
     },
     {
       "id": 2,
       "nomeLoja": "Raia",
-      "abragencia": "Nacional"
+      "abragencia": "Nacional",
+      "slogan": "Prazer em cuidar"
     },
     {
       "id": 3,
       "nomeLoja": "Panvel",
-      "abragencia": "Estadual"
+      "abragencia": "Estadual",
+      "slogan": "Você sempre bem"
     },
     {
       "id": 4,
       "nomeLoja": "Drogaria SP",
-      "abragencia": "Inter-Estadual"
+      "abragencia": "Inter-Estadual",
+      "slogan": "Viver bem passa por aqui"
     }
-   
-  ],
 
+    
+  ],
   "medicamentos": [
     {
       "id": 1,
@@ -48,13 +52,15 @@
       "substancia": "Dimenidrinato",
       "tipo": "Referencia"
     }
+
   ],
+
   "precos": [
     {
       "id": 1,
       "cupom": "med10",
       "descontoLab": "Viva Saude",
-       "valor": 81.00
+      "valor": 81.00
     },
     {
       "id": 2,
