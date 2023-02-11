@@ -79,12 +79,8 @@ DELETE: Utilizado para deletar um recurso
 
 ![Getting Started](./assets/img/metodoDelete.png)
 
-#
-> Contato
 
-<br>
 
-<a href="https://www.linkedin.com/in/tiago-batista-441aa0105/target=_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
 
 
 
