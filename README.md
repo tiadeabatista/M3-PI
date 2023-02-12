@@ -33,7 +33,10 @@ npm i json-server
 
 > Depois do json-server instalado, execute o comado para ver/assitir as rotas através de um endereço de URL local, comando:
 
-npx json-server --watch db.json
+npx json-server --watch db.json <br>
+> Para executar as rotas personalizadas utilize;<br>
+
+json-server -r routes.json --watch db.json
 
 > Depois deste comando aparecerão as URL(s):
 
